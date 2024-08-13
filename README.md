@@ -1,13 +1,12 @@
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 <h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
 <h3 align="center">Aspiring web developer, Building strong foundation in development.</h3>
 
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 
+<br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devlp-kunal-wld&label=Profile%20views&color=0e75b6&style=flat" alt="devlp-kunal-wld" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devlp-kunal-wld" alt="devlp-kunal-wld" /></a> </p>
 
 - 🔭 I’m currently working on *Webdevelopment*
 
@@ -16,6 +15,12 @@
 - 💬 Ask me about *C and HTML.*
 
 - 📫 How to reach me *kunal101mfp@gmail.com*
+
+
+<br><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devlp-kunal-wld" alt="devlp-kunal-wld" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
