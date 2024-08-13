@@ -1,4 +1,5 @@
-[![MasterHead](https://gteches.com/wp-content/uploads/2023/05/Full-Stack-3.gif)]
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif">
 <h1 align="center">Hi 👋, I'm Kunal Kumar</h1>
 <h3 align="center">Aspiring web developer, Building strong foundation in development.</h3>
 
